@@ -1,3 +1,16 @@
+# date
+/days
+![route days](./img/days.png)
+
+/hour
+![route hour](./img/hour.png)
+
+/weekday/1990/07/04
+![route day](./img/day.png)
+
+/howMuchDodo/2023/12/25
+![route howMuchDodo](./img/howMuchDodo.png)
+
 # Horloge Parlante
 
 Crée une api web avec express qui expose tous les endpoints suivants. Tu auras besoin de manipuler des objets [Date](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date) pour la plupart d'entre eux
